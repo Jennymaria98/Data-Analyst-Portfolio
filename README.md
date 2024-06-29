@@ -11,8 +11,8 @@ Description: The Walmart Sales Analysis project , we dive into Walmart's sales d
 
 Code : [Walmart_sales.sql](https://github.com/Jennymaria98/Walmart-sales-analysis/blob/98bd3a430dcbb3621f52bf9a9fda8809511688e3/Walmart_sales.sql)
 
-Key Tools and Techniques
-SQL: Used for querying and aggregating large datasets to derive meaningful insights.
+Key Tools and Techniques  
+SQL: Used for querying and aggregating large datasets to derive meaningful insights.  
 Data Exploration: Exploring relationships and trends within the dataset to uncover patterns.
 
 Key Insights:
