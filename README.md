@@ -38,6 +38,6 @@ Analyzed seasonal trends to pinpoint peak sales periods across different regions
 
 ### World Happiness Score :     
 The World Happiness Score is a metric used to gauge the general well-being and happiness of populations across the globe. This score is derived from the World Happiness Report, an annual publication that ranks countries based on their residents' perceptions of happiness and life satisfaction.  
-Explore the interactive Tableau dashboard to gain deeper insights into the World Happiness Score, including how different factors contribute to overall happiness and how countries compare globally:  
-
+Explore the interactive Tableau dashboard to gain deeper insights into the World Happiness Score:  
+## Tableau Dashboard
 [![Tableau Dashboard](https://public.tableau.com/views/WorldHappiness_17184901819160/Sheet2?:language=en-US&:display_count=y&:origin=viz_share_link)](https://public.tableau.com/views/WorldHappiness_17184901819160/Sheet2?:language=en-US&:display_count=n&:origin=viz_share_link)
