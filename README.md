@@ -10,7 +10,8 @@ Welcome to my Data Analytics Portfolio! This repository showcases a collection o
 - [Portfolio Projects](#Portfolio-Projects)  
        [Walmart Sales Performance Analysis](#walmart-sales-performance-analysis)
 - [Tableau](#Tableau)  
-      [World Happiness Score](#World-Happiness-Score) 
+      [World Happiness Score](#World-Happiness-Score)
+      [CO2 emissions by utilising different data sets](#CO2-emissions-by-utilising-different-data-sets)
       
 
 ### Portfolio Projects
@@ -36,6 +37,11 @@ Analyzed seasonal trends to pinpoint peak sales periods across different regions
 
 ### Tableau  
 
-### World Happiness Score :     
+### World Happiness Score   
 The World Happiness Score is a metric used to gauge the general well-being and happiness of populations across the globe. This score is derived from the World Happiness Report, an annual publication that ranks countries based on their residents' perceptions of happiness and life satisfaction.  
-Explore the interactive Tableau dashboard to gain deeper insights into the World Happiness Score:[Tableau Dashboard](https://public.tableau.com/views/WorldHappiness_17184901819160/Sheet2?:language=en-US&:display_count=y&:origin=viz_share_link)
+Tableau dashboard to gain deeper insights into the World Happiness Score:[Tableau Dashboard](https://public.tableau.com/views/WorldHappiness_17184901819160/Sheet2?:language=en-US&:display_count=y&:origin=viz_share_link)
+
+### CO2 emissions by utilising different data sets  
+This Tableau visualization explores CO2 emissions from various sectors using multiple datasets. It offers insights into emissions trends over time and across different industries, highlighting the environmental impact of various sectors.  
+Tableau dashboard to gain deeper insights into the CO2 emissions:[Tableau Dashboard](https://public.tableau.com/views/CO2emissionsbyutilisingdifferentdatasets/Sheet1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)  
+
