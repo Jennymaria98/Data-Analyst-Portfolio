@@ -1,6 +1,6 @@
 # DATA-ANALYTICS-PORTFOLIO 
 
-# ABOUT
+## ABOUT
 
 Welcome to my Data Analytics Portfolio! This repository showcases a collection of projects where I've applied data analytics techniques using SQL, Python, and Tableau. Each project demonstrates my skills in data manipulation, analysis, visualization, and storytelling.
 
