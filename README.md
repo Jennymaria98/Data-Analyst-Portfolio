@@ -34,8 +34,8 @@ Identified top-performing branches based on sales revenue and growth rates.
 Analyzed seasonal trends to pinpoint peak sales periods across different regions.
 
 
-### Tableau   
+### Tableau  
 
-### World Happiness Score :   
-The World Happiness Score is a metric used to gauge the general well-being and happiness of populations across the globe. This score is derived from the World Happiness Report, an annual publication that ranks countries based on their residents' perceptions of happiness and life satisfaction.
-Tableau Public : [Tableau Dashboard]([https://public.tableau.com/views/YourDashboardName/YourViewName](https://public.tableau.com/views/WorldHappiness_17184901819160/Sheet2?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)) for more insights.
+### World Happiness Score :     
+The World Happiness Score is a metric used to gauge the general well-being and happiness of populations across the globe. This score is derived from the World Happiness Report, an annual publication that ranks countries based on their residents' perceptions of happiness and life satisfaction.  
+Tableau Public : [Tableau Dashboard]([https://public.tableau.com/views/WorldHappiness_17184901819160/Sheet2?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link]) for more insights.
