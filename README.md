@@ -11,15 +11,19 @@ Welcome to my Data Analytics Portfolio! This repository showcases a collection o
 -    [Walmart Sales Performance Analysis](#walmart-sales-performance-analysis)
 
 ### Portfolio Projects
+In this section I will list data analytics projects briefly describing the technology used to solve cases.
 
 ### Walmart Sales Performance Analysis
 Description: The Walmart Sales Performance Analysis project explores Walmart's sales data to uncover insights that can optimize sales strategies. The dataset used in this project comes from the Kaggle Walmart Sales Forecasting Competition, offering a comprehensive view of sales across various branches and products.
 
 Code: Walmart_sales.sql
 
-Key Tools and Techniques:
-SQL: Utilized for querying and aggregating large datasets to extract meaningful insights.
-Data Exploration: Investigating relationships and trends within the dataset to discover patterns.
+Skills:  Data Manipulation Language (DML),Data Definition Language (DDL),Feature Engineering,Exploratory Data Analysis (EDA),Data Integrity and Safety.  
+- **Table Creation and Schema Alterations**: Defining and extending table structures with `CREATE TABLE` and `ALTER TABLE` statements.  
+- **Data Updates and Conditional Logic**: Updating table data based on complex conditions using `CASE` statements and `JOIN` operations.  
+- **Feature Engineering**: Creating new features from existing data to enhance analysis, such as categorizing sales into time-of-day segments and labeling products based on performance.  
+- **Exploratory Data Analysis (EDA)**: Performing detailed data analysis to uncover insights on sales trends, customer behavior, and product performance.  
+- **Safe Data Handling**: Ensuring data integrity through careful use of safe update settings.  
 
 Key Insights:
 
