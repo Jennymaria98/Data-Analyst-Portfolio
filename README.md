@@ -6,9 +6,9 @@ Welcome to my Data Analytics Portfolio! This repository showcases a collection o
 
 ## Table of Contents
 
-[About](#About)
-[Portfolio Projects](#Portfolio-Projects)
-[Walmart Sales Performance Analysis](#walmart-sales-performance-analysis)
+- [About](#About)  
+- [Portfolio Projects](#Portfolio-Projects)  
+-- [Walmart Sales Performance Analysis](#walmart-sales-performance-analysis)
 
 ### Portfolio Projects
 
