@@ -9,8 +9,8 @@ Welcome to my Data Analytics Portfolio! This repository showcases a collection o
 - [About](#About)  
 - [Portfolio Projects](#Portfolio-Projects)  
        [Walmart Sales Performance Analysis](#walmart-sales-performance-analysis)
-- [Tableau](#Tableau)  
-      [World Happiness Score](#World-Happiness-Score)
+- [Tableau Public](#Tableau)  
+      [World Happiness Score](#World-Happiness-Score)  
       [CO2 emissions by utilising different data sets](#CO2-emissions-by-utilising-different-data-sets)
       
 
@@ -35,7 +35,7 @@ Identified top-performing branches based on sales revenue and growth rates.
 Analyzed seasonal trends to pinpoint peak sales periods across different regions.
 
 
-### Tableau  
+### Tableau Public    
 
 ### World Happiness Score   
 The World Happiness Score is a metric used to gauge the general well-being and happiness of populations across the globe. This score is derived from the World Happiness Report, an annual publication that ranks countries based on their residents' perceptions of happiness and life satisfaction.  
